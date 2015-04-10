@@ -1,0 +1,21 @@
+diff --git a/l10n_install.info b/l10n_install.info
+index 7845e40..72eb5ca 100644
+--- a/l10n_install.info
++++ b/l10n_install.info
+@@ -14,12 +14,13 @@ dependencies[] = path
+ dependencies[] = taxonomy
+ dependencies[] = dblog
+ dependencies[] = search
+-dependencies[] = shortcut
+-dependencies[] = toolbar
+-dependencies[] = overlay
+ dependencies[] = field_ui
+ dependencies[] = file
+ dependencies[] = rdf
++dependencies[] = admin_menu
++dependencies[] = tanarurkerem_ckeditor
++dependencies[] = tanarurkerem_gallery
++dependencies[] = tanarurkerem_calendar
+ 
+ ; ships with locale modules
+ dependencies[] = locale
