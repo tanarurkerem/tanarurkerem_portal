@@ -6,6 +6,7 @@ projects[drupal][version] = "7.36"
 
 projects[l10n_install][type] = profile
 projects[l10n_install][version] = 1.3
+projects[l10n_install][patch][] = https://raw.githubusercontent.com/tanarurkerem/tanarurkerem_portal/master/l10n_install.patch
 
 projects[l10n_update] = 1.1
 projects[l10n_client] = 1.3
